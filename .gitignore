@@ -1,0 +1,17 @@
+# Entorno virtual y cache de Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Pesos entrenados: binarios grandes y regenerables corriendo los notebooks.
+# results/*.csv y figuras/*.png SÍ se versionan: son la evidencia del tuneo
+# y las figuras del informe (rúbrica del ejercicio 1, sección 5.4 de CLAUDE.md).
+models/*.keras
+
+# Mantener la estructura de carpetas aunque su contenido se ignore
+!models/.gitkeep
+
+# Sistema operativo / editor
+.DS_Store
+Thumbs.db
