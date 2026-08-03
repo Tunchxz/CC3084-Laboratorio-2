@@ -1,0 +1,4 @@
+frontera,d,D,descomposición,mejor_modelo,MAE,RMSE,corr_nivel_std
+01 La Aurora,1,1,multiplicative,Holt-Winters,25155.781731800012,30236.806619984167,0.8891626804730959
+07 Valle Nuevo,1,1,multiplicative,Prophet,15218.586193672689,21764.329623777547,0.3103852987092105
+09 San Cristóbal,2,1,multiplicative,Prophet,7723.292644832414,10437.102491259924,0.5289911096404964

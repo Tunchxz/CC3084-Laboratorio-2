@@ -1,0 +1,6 @@
+modelo,MAE,RMSE,AIC,BIC
+Prophet,132304,139549,,
+Holt-Winters,134375,146606,3081.2,3129.0
+Suavizamiento exp. simple,165373,180598,3177.2,3183.2
+Seasonal naive,207322,219664,,
+"ARIMA (1, 1, 0)x(1, 1, 0, 12)",226659,243072,63.9,72.6
