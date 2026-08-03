@@ -1,4 +1,0 @@
-región,d,D,descomposición,mejor_modelo,MAE,RMSE,corr_nivel_std
-América del Centro,1,1,multiplicative,Prophet,62484.78663084379,67837.60346084149,0.8462607075245306
-América del Norte,0,1,additive,"ARIMA (1, 0, 1)x(1, 1, 1, 12)",31546.445090350906,35422.24762467653,0.7892330158943468
-Europa,2,1,additive,Suav. exp. simple,9571.37382489604,10978.128729942418,0.7593271145285316
